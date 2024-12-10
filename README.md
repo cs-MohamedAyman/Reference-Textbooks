@@ -1,7 +1,7 @@
-<a href="/README.md"><img align="right" width="160" src="logos/reference-textbooks.png"></img></a>
+<a href="/README.md"><img align="right" width="160" src="logos/reference-textbook-notes.png"></img></a>
 
-# Reference Textbooks
-Reference Textbooks for computer science students.
+# Reference Textbook Notes
+Reference Textbook Notes for computer science students.
 
 <table>
     <tbody>
